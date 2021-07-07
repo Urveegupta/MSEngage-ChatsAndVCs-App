@@ -1,8 +1,8 @@
 # MSEngage-ChatsAndVCs-App
 
-TO RUN- 
+#TO RUN- 
 install nodejs, npm , react
-Download the code
+#Download the code
 Connect an android device (Eg. Android Emulator)
 Run command "react-native run-android"
 
