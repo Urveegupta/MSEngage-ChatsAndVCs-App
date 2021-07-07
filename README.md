@@ -2,13 +2,15 @@
 
 **TO RUN-**
 
-install nodejs, npm, react
+install npm, react
 
 Download the code
 
 Connect an android device (Eg. Android Emulator)
 
-Run command "react-native run-android"
+**Run following commands:**
+a) "npm install"
+b) "react-native run-android"
 
 
 **HOW TO USE-**
